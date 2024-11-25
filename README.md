@@ -1,2 +1,4 @@
-# Ada_GEME
-Plantilla para el proyecto GEME
+# Proyecto Ada_GEME
+
+Este repositorio servirá trabajar en Git en el proyecto de Sistemas Informáticos Industriales del Máster INCAR.
+
